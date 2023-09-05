@@ -18,9 +18,9 @@ A personal business site created to showcase the artistry and expertise of a hai
 ## Overview
 
 ### Screenshot
-![](/SlayedAndLaidSalon/images/screenshot.png)
-![](/SlayedAndLaidSalon/images/mobile-portrait.png)
-![](/SlayedAndLaidSalon/images/mobile-landscape.png)
+![](screenshot.png)
+![](mobile-portrait.png)
+![](mobile-landscape.png)
 
 ### Links
 
@@ -40,7 +40,7 @@ A personal business site created to showcase the artistry and expertise of a hai
 ### What I learned
 
 
-Fleshed out someof my HTML and CSS skills.
+Fleshed out some of my HTML and CSS skills.
 
 - Font & Styling edits
 
