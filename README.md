@@ -25,7 +25,7 @@ A personal business site created to showcase the artistry and expertise of a hai
 ### Links
 
 - Repository URL: [Here](https://github.com/codewithjazzy/SlayedAndLaidSalon)
-- Live Site URL: [Here](https://slayedandlaid.netlify.app/)
+- Live Site URL: [Here](https://slayedandlaid.jasminetaylor.dev/)
 
 ## My process
 
